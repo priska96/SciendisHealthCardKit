@@ -1,2 +1,2 @@
 # SciendisHealthCardKit
-wraps the gematik OpenHelathCardKit so we can build a static library
+wraps the gematik OpenHealthCardKit so we can build a static library
