@@ -30,28 +30,10 @@
     {
       "identity" : "ref-openhealthcardkit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/gematik/ref-OpenHealthCardKit",
+      "location" : "https://github.com/sciendis/ref-OpenHealthCardKit.git",
       "state" : {
-        "revision" : "1831d7e1ee5725c1dfe8d44a4c8e044c17f79494",
-        "version" : "5.11.0"
-      }
-    },
-    {
-      "identity" : "swift-docc-plugin",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-docc-plugin",
-      "state" : {
-        "revision" : "85e4bb4e1cd62cec64a4b8e769dcefdf0c5b9d64",
-        "version" : "1.4.3"
-      }
-    },
-    {
-      "identity" : "swift-docc-symbolkit",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/swiftlang/swift-docc-symbolkit",
-      "state" : {
-        "revision" : "b45d1f2ed151d057b54504d653e0da5552844e34",
-        "version" : "1.0.0"
+        "branch" : "dev",
+        "revision" : "cb26556f1320e868cbb3b51451648ba82cc47e69"
       }
     }
   ],
