@@ -14,6 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/sciendis/ref-OpenHealthCardKit.git", branch:"dev"),
+        .package(url: "https://github.com/gematik/OpenSSL-Swift", from: "4.2.0"),
     ],
     targets: [
         .target(
