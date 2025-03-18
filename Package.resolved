@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/sciendis/ref-OpenHealthCardKit.git",
       "state" : {
-        "branch" : "dev",
-        "revision" : "cb26556f1320e868cbb3b51451648ba82cc47e69"
+        "revision" : "cb26556f1320e868cbb3b51451648ba82cc47e69",
+        "version" : "1.0.0"
       }
     }
   ],
