@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SciendisHealthCardKit",
+    name: "Sciendishealthcardkit",
     platforms: [
         .iOS(.v14),
     ],
@@ -13,7 +13,7 @@ let package = Package(
             targets: ["SciendisHealthCardKit"]),  
     ],
     dependencies: [
-        .package(url: "https://github.com/sciendis/ref-OpenHealthCardKit", from:"1.0.0"),
+        .package(url: "https://github.com/sciendis/ref-OpenHealthCardKit", from: "1.0.0"),
         .package(url: "https://github.com/gematik/OpenSSL-Swift", from: "4.2.0"),
     ],
     targets: [
