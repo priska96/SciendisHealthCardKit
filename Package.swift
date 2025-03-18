@@ -9,8 +9,9 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "SciendisHealthCardKit",
-            targets: ["SciendisHealthCardKit"]),  
+            name: "SciendisHealthCardKit", type: .static,
+            targets: ["SciendisHealthCardKit"]
+        ),  
     ],
     dependencies: [
         .package(url: "https://github.com/sciendis/ref-OpenHealthCardKit", from: "1.0.0"),
